@@ -1,0 +1,3 @@
+.hover-video:hover > .video-text {
+    opacity: 0;
+}
